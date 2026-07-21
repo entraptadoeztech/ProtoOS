@@ -1,4 +1,4 @@
-<h2>ProtoOS</h2>
+<h1>ProtoOS!</h1>
 <img src = "https://raw.githubusercontent.com/entraptadoeztech/ProtoOS/refs/heads/main/assets/imgs/IMG_0775.gif"/img>
 <p>My IoT management program</p>
 <h3>What is this?????</h3>
